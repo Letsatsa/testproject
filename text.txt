@@ -1,2 +1,6 @@
 my name is emma 
- class emma{}
+ class emma{
+ public string test s(string name)
+ {
+   std::cout<<this is just a test<<std::endl;
+ }}
